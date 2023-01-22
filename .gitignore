@@ -3,3 +3,7 @@ intpk.py
 test.ipynb
 __pycache__
 .ipynb_checkpoints
+dist
+build
+cosvar.egg-info
+notes.txt
