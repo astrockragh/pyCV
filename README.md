@@ -14,7 +14,6 @@ cosvar
 │   README.md
 │   LICENSE    
 │   setup.py
-
 └───src
     │   __init__.py
     │   pyCV.py 
