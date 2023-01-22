@@ -10,7 +10,7 @@ Main package is in src/pyCV.py. The only dependencies are numpy, scipy and panda
 
 
 ```
-project
+cosvar
 │   README.md
 │   LICENSE    
 │   setup.py
